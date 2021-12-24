@@ -55,3 +55,4 @@ Please check whether you have installed the packages: numpy, scipy and matplotli
 # 5. How to adjust parameters.
 The variables from line 15 to line 24 in "main.py" correspond to the mentioned parameters.  
 You could adjust all variables except K which should be associated with the input file and fileName.  
+
